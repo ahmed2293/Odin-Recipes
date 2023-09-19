@@ -1,0 +1,25 @@
+/*style.css*/
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.a {
+   
+    color:darkgreen;
+font-weight: 800;
+font-size: x-large;
+}
+.b {
+ font-size: x-large;   
+    color: red;
+    font-weight: 900;
+}
+img {
+    height: auto;
+    width: 400px;
+    
+}
+li {
+    color: chocolate;
+    font-size: large;
+    font-weight: 500;
+}
