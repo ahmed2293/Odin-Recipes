@@ -1,6 +1,15 @@
 /*style.css*/
 body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/823/542/non_2x/spices-for-use-as-cooking-ingredients-on-a-wooden-background-with-fresh-vegetables-healthy-food-herbs-organic-vegetables-on-the-table-raw-materials-of-cooking-preparation-tom-yum-free-photo.jpg);
+}
+.bo {
+    margin: auto;
+    width: 750px;
+}
+.no {
+    background-color: chocolate;
+    color: black;
 }
 .a {
    
@@ -16,10 +25,23 @@ font-size: x-large;
 img {
     height: auto;
     width: 400px;
+    margin-left: 175px;
     
 }
 li {
-    color: chocolate;
+    color: rgb(0, 0, 0);
     font-size: large;
     font-weight: 500;
+}
+.box {
+    padding: 10px;
+    margin: 8px;
+}
+.Dark {
+    background-color: red ;
+    
+}
+.light {
+    background-color: green;
+   
 }
